@@ -29,7 +29,7 @@ Options for sharing can include oral presentations (with slides), written respon
 
 **Case Study 1:**
 
-Is It Sharing or Stealing?
+*Is It Sharing or Stealing?*
 Source: Schneider, G. M., & Gersting, J. L. (2019). Invitation to computer science. Cengage Learning.
 
 In your time online, I am sure you have come across many advertisements and warnings stating the negative consequences of copying or sharing copyrighted material, such as music, videos, photographs, video games, and the like. This "sharing" of music and movies was commonplace before the Internet, but it was mostly done on a personal level (friend to friend). Although this was technically illegal, the recording and movie industries focused their attention on "true" piracy, which involves the mass production of bootleg products for sale.
@@ -48,7 +48,8 @@ This case leads to many ethical questions, but two are worth special attention a
 
 
 **Case Study 2:** 
-Legal Snooping – Privacy vs Security
+
+*Legal Snooping – Privacy vs Security*
 Source: Schneider, G. M., & Gersting, J. L. (2019). Invitation to computer science. Cengage Learning.
 
 In the summer of 2013, the exploits of American Computer professional and former US National Security Agency (NSA) contractor Edward Snowden came to light when he leaked classified information from the NSA to the international news media. Snowden disclosed thousands of classified documents that revealed the extend of the NSA's global surveillance programs, including monitoring of US phone and email traffic and the phone conversations of over 25 world leaders. To some, Snowden was a hero, a "whistleblower" who showed how concerns for national security could be used to trample basic constitutional rights and invade personal privacy. To others, he was a traitor. The US Department of Justice charged him with violating the Espionage Act, which he had to stand trial for when he returns to the US. Currently, he lives in an undisclosed location in Russia.
@@ -62,7 +63,8 @@ This cases raises two ethical questions:
 
 
 **Case Study 3:** 
-Ashely Madison Hack
+
+*Ashely Madison Hack*
 Source: https://abcnews.go.com/Technology/ashley-madison-hack-included-data-dump/story?id=33176238
 
 It's a bad day for millions of cheaters. Personal data believed to have been stolen from the adultery website Ashley Madison has been posted on the dark Web, apparently exposing names, email addresses and phone numbers for some of the website's 37 million members, among other information. The website connects people looking to have an extramarital affair.
@@ -82,7 +84,8 @@ If the hacking was done in the name of a good cause, does it make it okay?
 
 
 **Case Study 4:**
-Cyberbullying
+
+*Cyberbullying*
 Source: Schneider, G. M., & Gersting, J. L. (2019). Invitation to computer science. Cengage Learning.
 
 Bullying is a problem that has been around for a long time, however the growth of the Internet an social media has allowed bullying and the violation of one's personal privacy to become much easier; online taunting allows bullies to remain anonymous, gang up on victims in enormous numbers, harass victims in place that would normally be safe (such as within their own home), and have their hateful speeches live on in cyberspace long after they have moved on.
