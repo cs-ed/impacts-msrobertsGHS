@@ -21,8 +21,6 @@ This document is a lesson that I will implement while teaching the impacts of co
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
-
 Students are provided 4 case studies from which they must choose one to read, evaluate, and answer the provided discussion questions.  
 
 https://drive.google.com/file/d/1MI9HuVHlkMMrGt1mbO3Y-Mr45N3HvwZE/view?usp=sharing
