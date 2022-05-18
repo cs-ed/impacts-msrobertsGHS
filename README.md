@@ -2,6 +2,9 @@
 
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
+AP Computer Science Principles, 10-12th grade
+Big Idea 5: Impact of Computing
+
 As citizens of our communities, our country, and the world, we want our decisions to be well informed and well-reasoned. Whenever humans make decisions about things they value, there are conflicts and trade-offs. The field of ethics, the study of moral philosophy, has a long history of looking at how to identify and resolve such conflicts. 
 
 ## Plan
@@ -17,12 +20,16 @@ As citizens of our communities, our country, and the world, we want our decision
 
 Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
 
+Students are provided 4 case studies from which they must choose one to read, evaluate, and answer the provided discussion questions.  
+
+https://drive.google.com/file/d/1MI9HuVHlkMMrGt1mbO3Y-Mr45N3HvwZE/view?usp=sharing
+
+Options for sharing can include oral presentations (with slides), written responses, group share outs, think pair share, etc.
+
 Case Study 1: 
 
 Is It Sharing or Stealing?
-
 Source: Schneider, G. M., & Gersting, J. L. (2019). Invitation to computer science. Cengage Learning.
-
 
 In your time online, I am sure you have come across many advertisements and warnings stating the negative consequences of copying or sharing copyrighted material, such as music, videos, photographs, video games, and the like. This "sharing" of music and movies was commonplace before the Internet, but it was mostly done on a personal level (friend to friend). Although this was technically illegal, the recording and movie industries focused their attention on "true" piracy, which involves the mass production of bootleg products for sale.
 
@@ -111,3 +118,5 @@ Which analogy is more appropriate? Justify your position.
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+
+
