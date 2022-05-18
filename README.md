@@ -1,7 +1,5 @@
 # Impacts on Society
 
-Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
-
 AP Computer Science Principles (10th, 11th, 12th Grade)
 “AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.” - College Board
 
@@ -120,8 +118,6 @@ Discussion Questions:
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
-
 Students will take the following written assessment:
 
 Directions: For the following, answer one of the questions completely and to the best of your ability. Use complete sentences when necessary.
@@ -140,6 +136,12 @@ Which analogy is more appropriate? Justify your position.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+The lesson in this plan maximizes students’ strengths and reduces instructional barriers by allowing multiple entry points so that students can all be working on the same project but with different participation and complexity.
 
+The assessment is scaffolded since students are provided an example to complete and share prior to completing the assessment.
 
+In addition, students will have multiple means of engagement by being allowed to share by oral presentations (with slides), written responses, group share outs, think pair share, posters, or something original. 
+
+Specific accommodation and modifications will be provided to students per their IEP.
+
+In the future, I would like to start a “Girls Who Code” club and help the district create a middle school and high school pathway to get more students interested in computer science.  My plan is to look for and add more case studies to this lesson as I find them throughout my career teaching computer science. 
