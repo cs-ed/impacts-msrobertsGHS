@@ -17,7 +17,10 @@ As citizens of our communities, our country, and the world, we want our decision
 
 Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
 
-Case Study 1: Is It Sharing or Stealing?
+Case Study 1: 
+
+Is It Sharing or Stealing?
+
 Source: Schneider, G. M., & Gersting, J. L. (2019). Invitation to computer science. Cengage Learning.
 
 
