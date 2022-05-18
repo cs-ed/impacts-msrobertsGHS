@@ -135,7 +135,7 @@ Which analogy is more appropriate? Justify your position.
 
 ### Outcomes
 
-The lesson in this plan maximizes students’ strengths and reduces instructional barriers by allowing multiple entry points so that students can all be working on the same project but with different participation and complexity.
+The lesson maximizes students’ strengths and reduces instructional barriers by allowing multiple entry points so that students can all be working on the same project but with different participation and complexity.
 
 The assessment is scaffolded since students are provided an example to complete and share prior to completing the assessment.
 
