@@ -35,6 +35,8 @@ Options for sharing can include oral presentations (with slides), written respon
 
 As citizens of our communities, our country, and the world, we want our decisions to be well informed and well-reasoned. Whenever humans make decisions about things they value, there are conflicts and trade-offs. The field of ethics, the study of moral philosophy, has a long history of looking at how to identify and resolve such conflicts. 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Case Study 1:**
 
 *Is It Sharing or Stealing?*
@@ -54,6 +56,7 @@ This case leads to many ethical questions, but two are worth special attention a
 
 2. Is it right to provide a search engine whose only purpose is to allow users to search each other's databases of copyrighted music and book files, videos, and photos?
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **Case Study 2:** 
@@ -70,6 +73,7 @@ This cases raises two ethical questions:
 
 2. If the government was surveillancing civilians, should they be secretive about it or more transparent about what information they are gathering and storing?
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **Case Study 3:** 
@@ -93,6 +97,7 @@ This raises an interesting ethical question around hacking:
 
 If the hacking was done in the name of a good cause, does it make it okay?
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Case Study 4:**
 
@@ -111,7 +116,6 @@ Discussion Questions:
 1. Is cyberbullying a crime or does it fall under first amendment rights?
 
 2. Why do people engage in cyberbullying?
-
 
 
 ### Assessment
