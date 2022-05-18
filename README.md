@@ -8,7 +8,7 @@ Prior computer science experience is not required to take this course. This cour
 
 Prerequisite: A grade of C or better in Integrated Math I or Accelerated Math I
 
-This document is a lesson that I will implement while teaching the impacts of computing on society.  It will address Big Idea 5, the impact of computing.
+This document is a lesson that I will implement while teaching the impacts of computing on society.  It will address Big Idea 5.
 
 ## Plan
 
