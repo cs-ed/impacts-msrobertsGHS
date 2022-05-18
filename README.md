@@ -1,12 +1,15 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
-AP Computer Science Principles, 10-12th grade
+AP Computer Science Principles (10th, 11th, 12th Grade)
+“AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.” - College Board
 
-Big Idea 5: Impact of Computing
+Prior computer science experience is not required to take this course. This course meets the “G” of the A-G requirement for UC/CSU.
 
-As citizens of our communities, our country, and the world, we want our decisions to be well informed and well-reasoned. Whenever humans make decisions about things they value, there are conflicts and trade-offs. The field of ethics, the study of moral philosophy, has a long history of looking at how to identify and resolve such conflicts. 
+Prerequisite: A grade of C or better in Integrated Math I or Accelerated Math I
+
+This document is a lesson that I will implement while teaching the impacts of computing on society.  It will address Big Idea 5, the impact of computing.
 
 ## Plan
 
@@ -26,6 +29,11 @@ Students are provided 4 case studies from which they must choose one to read, ev
 https://drive.google.com/file/d/1MI9HuVHlkMMrGt1mbO3Y-Mr45N3HvwZE/view?usp=sharing
 
 Options for sharing can include oral presentations (with slides), written responses, group share outs, think pair share, etc.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+**Social Issues in Computing**
+
+As citizens of our communities, our country, and the world, we want our decisions to be well informed and well-reasoned. Whenever humans make decisions about things they value, there are conflicts and trade-offs. The field of ethics, the study of moral philosophy, has a long history of looking at how to identify and resolve such conflicts. 
 
 **Case Study 1:**
 
