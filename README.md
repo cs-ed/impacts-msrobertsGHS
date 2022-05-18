@@ -3,6 +3,7 @@
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
 AP Computer Science Principles, 10-12th grade
+
 Big Idea 5: Impact of Computing
 
 As citizens of our communities, our country, and the world, we want our decisions to be well informed and well-reasoned. Whenever humans make decisions about things they value, there are conflicts and trade-offs. The field of ethics, the study of moral philosophy, has a long history of looking at how to identify and resolve such conflicts. 
